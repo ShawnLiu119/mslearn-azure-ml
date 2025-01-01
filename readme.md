@@ -10,8 +10,4 @@ You can view the instructions for the lab exercises at [https://microsoftlearnin
 
 - We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. 
 
-## How do I contribute?
 
-- Anyone can submit a pull request to the code or content in the GitHub repository, Microsoft and the course author will triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
